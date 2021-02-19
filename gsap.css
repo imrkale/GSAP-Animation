@@ -17,6 +17,10 @@ button {
     padding: .5em 1em;
     cursor: pointer;
   }
+.start{
+   display: flex;
+   flex-direction: column;
+  }
 .panel {
     position: absolute;
     width: 55%;
